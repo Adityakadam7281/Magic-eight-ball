@@ -1,0 +1,88 @@
+.page {
+    margin: 0 auto;
+    background-image: url(images/images.jpg);
+    background-size: cover;
+  }
+  
+  html {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: #454545;S
+    margin: 0px;
+    padding: 0px;
+    background-color: #f8f8f8;
+    text-align: center;
+  }
+  
+  header {
+    text-align: center;
+  }
+  header span {
+    font-size: 60px;
+    font-size: 2em;
+    color: #271ceb;
+  }
+  h1 {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .ball {
+  position: relative;
+  }
+  .ball img{
+    width: 100%;
+    max-width: 40em;
+  }
+  .answer {
+    color: #222;
+    text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 31%;
+    left: 37%;
+    width: 27%;
+    height: 40%;
+    font-size: 80%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(7, 4, 49);
+    color: white;
+  }
+  
+  #questionButton {
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-size: 1.875em;
+    color: #f8f8f8;
+    background-color: #5225e5;
+    border-radius: 5px;
+    border: none;
+    padding: .5em 1em;
+    width: 80%;
+    max-width: 15em;
+    margin-top: 1em;
+    transition: 0.5s;
+  }
+  #questionButton:hover{
+    background-color: white;
+    color: #5225e5;
+
+  } 
+ 
+
+  footer p {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-size: .75em;
+    color: #222;
+  }
+  #logo{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 60px;
+    width: 100px;
+}
