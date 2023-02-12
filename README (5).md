@@ -10,7 +10,15 @@ the ball provides us with number of exciting answers instead of the normal borin
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 
+![Screenshot (28)](https://user-images.githubusercontent.com/89440646/218317010-381437bb-0255-4485-baf6-9baab8b95f55.png)
+
+
+
+![Screenshot (29)](https://user-images.githubusercontent.com/89440646/218317025-a4c1f42c-bc52-4877-a077-dc916e11d9d4.png)
+
+
+
+![Screenshot (30)](https://user-images.githubusercontent.com/89440646/218317037-1a7ad2de-e1b4-4039-bf34-82fd71940ac0.png)
